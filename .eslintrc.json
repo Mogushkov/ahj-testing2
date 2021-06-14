@@ -12,6 +12,7 @@
         "sourceType": "module"
     },
     "rules": {
+        "eol-last": "off",
         "import/no-extraneous-dependencies": "off",
         "import/no-unresolved": "off",
         "no-restricted-syntax": [
