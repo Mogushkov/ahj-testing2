@@ -1,3 +1,5 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/woifck36e1ipmosj?svg=true)](https://ci.appveyor.com/project/Mogushkov/ahj-testing2)
+
 Правила сдачи задания:
 
 1. **Важно**: в рамках этого ДЗ можно использовать любой менеджер пакетов
